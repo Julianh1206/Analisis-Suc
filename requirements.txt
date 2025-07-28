@@ -1,0 +1,14 @@
+pandas
+matplotlib
+ipykernel
+numpy
+matplotlib
+scipy
+scikit-learn
+seaborn
+statsmodels
+datetime
+plotly
+pyspark
+
+
